@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned]
+  - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](Thashreef Ali MM)
 - [Acknowledgments](#acknowledgments)
@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./desktop-preview-thasham.jpg)
+![](./design/desktop-preview-thasham.jpg)
 
 
 ### Links
