@@ -14,7 +14,7 @@
 
 body{
     font-family:"Outfit";
-    font-size:1.2em;
+    font-size:2em;
     background-color: var(--Light-gray);
     display:flex;
     flex-direction:column;
