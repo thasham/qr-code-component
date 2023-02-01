@@ -52,13 +52,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 body{
  height: calc(100vh -1px);
  }
-``@media (min-width: 500px) {
+@media (min-width: 500px) {
     .container{
         width:300px;
     }
 }``
 
-``using em/rem font-size for Accessibility purpose
+``HTML
+using em/rem font-size for Accessibility purpose
 
 using semantics in HTML for for better Accessibility``
 
