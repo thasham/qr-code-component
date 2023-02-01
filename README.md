@@ -52,12 +52,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 body{
  height: calc(100vh -1px);
  }
-@media (min-width: 500px) {
+``@media (min-width: 500px) {
     .container{
         width:300px;
     }
 }``
 
+``using em/rem font-size for Accessibility purpose
+
+using semantics in HTML for for better Accessibility``
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
