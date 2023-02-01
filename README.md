@@ -67,7 +67,7 @@ when I was stuck https://www.youtube.com/watch?v=JFyMWwOxHYM&t=865s&ab_channel=T
 
 ###Author
 
-- Website - Thashreef Ali MM(https://www.your-site.com)
+- Website - Thashreef Ali MM (https://thasham.github.io/qr-code-component/)
 - Frontend Mentor - thashreef (https://www.frontendmentor.io/profile/thasham)
 
 
