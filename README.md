@@ -26,7 +26,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: (https://github.com/thasham/qr-code-component)
-- live link:(https://thasham.github.io/qr-code-component/)
 
 ## My process
 
@@ -70,8 +69,6 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 when I was stuck https://www.youtube.com/watch?v=JFyMWwOxHYM&t=865s&ab_channel=TsbSankara
 
 ###Author
-
-- Website - Thashreef Ali MM (https://thasham.github.io/qr-code-component/)
 - Frontend Mentor - thashreef (https://www.frontendmentor.io/profile/thasham)
 
 
